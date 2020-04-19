@@ -14,7 +14,8 @@
     "html",
     "css",
     "selector",
-    "class"
+    "class",
+    "scoped"
   ],
   "license": "MIT",
   "files": [
