@@ -1,5 +1,5 @@
 # selector-to-hash
-HTML and CSS class selector to hash
+The selector-to-hash is easy to hash HTML and CSS selectors.
 
 # Usage
 ### Node.js and Browser
