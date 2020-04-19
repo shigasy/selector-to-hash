@@ -9,7 +9,6 @@
     "email": "shigasy555@gmail.com"
   },
   "description": "The selector-to-hash is easy to hash HTML and CSS selectors.",
-  "private": true,
   "keywords": ["hash", "html", "css", "selector", "class"],
   "license": "MIT",
   "files": [
