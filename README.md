@@ -84,9 +84,9 @@ selectorToHash(html, css)
 ### commonJS (Node.js and Browser)
 
 ```javascript
-const selectorToHash = require("selector-to-hash");
+const selectorToHash = require("selector-to-hash").selectorToHash;
 
-selectorToHash.selectorToHash(html, css)
+selectorToHash(html, css)
 /*
 {
   html: '',
