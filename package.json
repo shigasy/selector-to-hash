@@ -1,6 +1,6 @@
 {
   "name": "selector-to-hash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "https://github.com/shigasy/selector-to-hash",
@@ -9,7 +9,13 @@
     "email": "shigasy555@gmail.com"
   },
   "description": "The selector-to-hash is easy to hash HTML and CSS selectors.",
-  "keywords": ["hash", "html", "css", "selector", "class"],
+  "keywords": [
+    "hash",
+    "html",
+    "css",
+    "selector",
+    "class"
+  ],
   "license": "MIT",
   "files": [
     "dist"
