@@ -4,6 +4,8 @@ HTML and CSS class selector to hash
 # Usage
 ### Node.js and Browser
 ```javascript
+import { selectorToHash } from 'selector-to-hash'
+
 const html =
 `
 <div class="test">selectorToHash</div>
