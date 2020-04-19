@@ -1,2 +1,2 @@
-import { selectorToHash } from './selectorToHash'
+export { selectorToHash } from './selectorToHash'
 export * from './types'
