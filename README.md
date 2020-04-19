@@ -1,7 +1,7 @@
 # selector-to-hash
 The selector-to-hash is easy to hash HTML and CSS selectors.
 
-# Description
+## Description
 This converts the class to hash and allows for a scoped CSS with no duplicates.
 
 Currently, only the class selector is supported.
@@ -40,14 +40,14 @@ Currently, only the class selector is supported.
 }
 ```
 
-# Usage
-## Install
+## Usage
+### Install
 
 ```shell
 $ yarn add selector-to-hash # or npm install selector-to-hash
 ```
 
-## ES2015 modules (Node.js and Browser)
+### ES2015 modules (Node.js and Browser)
 
 ```javascript
 import { selectorToHash } from 'selector-to-hash'
@@ -81,7 +81,7 @@ selectorToHash(html, css)
 */ 
 ```
 
-## commonJS (Node.js and Browser)
+### commonJS (Node.js and Browser)
 
 ```javascript
 const selectorToHash = require("selector-to-hash");
@@ -97,5 +97,5 @@ selectorToHash.selectorToHash(html, css)
 
 
 
-# Example
+## Example
 [open test code](https://github.com/shigasy/selector-to-hash/blob/master/__tests__/integration/selectorToHash.test.ts)
