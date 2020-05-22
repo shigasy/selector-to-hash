@@ -1,6 +1,9 @@
 # selector-to-hash
 The selector-to-hash is easy to hash HTML and CSS selectors.
 
+⚠ This is incomplete and we recommend that you do not use it.
+
+
 ## Description
 This converts the class to hash and allows for a scoped CSS with no duplicates.
 
